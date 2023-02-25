@@ -12,4 +12,3 @@ res = (M * c * b) / (a * d)
 print(f"{c}/{d}th of the salary is {res}")
 
 
-#Reverse of a string
