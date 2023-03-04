@@ -1,0 +1,13 @@
+Reverse words in a para:-
+1. Punctutation marks reversal - reverse them
+2. What if we have multiple spaces  - take the spaces as given
+3. What if there are line numbers for statements - retain numbers at start
+4. Language - Unicode
+5. Emojis
+6. Limit for paragraph
+7. Formatting
+8. Time of execution
+
+
+
+Strategy for selecting pivot elements
