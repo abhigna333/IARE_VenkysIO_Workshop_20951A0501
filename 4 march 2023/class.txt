@@ -11,3 +11,6 @@ Reverse words in a para:-
 
 
 Strategy for selecting pivot elements
+Multithreaded quicksort
+
+1 million numbers - best performance - Quicksort
